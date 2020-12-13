@@ -1,0 +1,1 @@
+const vConsole = new VConsole();
